@@ -12,9 +12,9 @@ The second part is about the **generation** of musical material, including symbo
 
 
 # Syllabus
-* W1. Introduction to the course ([slides1](https://github.com/affige/DeepMIR/lecture01_intro_course.pdf), [slides2](https://github.com/affige/DeepMIR/lecture01_intro_MIR.pdf))
-* W2. Fundamentals & Music representation
-* W3. Analysis I (timbre): Automatic music classification and representation learning
+* W1. Introduction to the course ([slides1](https://github.com/affige/DeepMIR/blob/main/lecture01_intro_course.pdf), [slides2](https://github.com/affige/DeepMIR/blob/main/lecture01b_intro_MIR.pdf))
+* W2. Fundamentals & Music representation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture02_representations.pdf))
+* W3. Analysis I (timbre): Automatic music classification and representation learning ([slides](https://github.com/affige/DeepMIR/blob/main/lecture03_timbre.pdf))
 * W4. Generation I: Source separation
 * W5. Generation II: GAN & Vocoders
 * W6. Generation III: Synthesis of notes and loops
