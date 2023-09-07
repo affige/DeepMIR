@@ -6,9 +6,9 @@ https://affige.github.io/teaching.html
 
 In this course, we are mainly interested in the application of machine learning, in particular deep learning, to address music related problems. Specifically, the course is divided to two parts: analysis and generation.
 
-The first part is about the analysis of musical audio signals, covering topics such as feature extraction and representation learning for musical audio, music audio classification, melody extraction, automatic music transcription, and musical source separation.
+The first part is about the **analysis** of musical audio signals, covering topics such as feature extraction and representation learning for musical audio, music audio classification, melody extraction, automatic music transcription, and musical source separation.
 
-The second part is about the generation of musical material, including symbolic-domain MIDI or tablatures, and audio-domain music signals such as singing voices and instrumental music. This would involve deep generative models such as generative adversarial networks (GANs), variational autoencoders (VAE), Transformers, and diffusion models. 
+The second part is about the **generation** of musical material, including symbolic-domain MIDI or tablatures, and audio-domain music signals such as singing voices and instrumental music. This would involve deep generative models such as generative adversarial networks (GANs), variational autoencoders (VAE), Transformers, and diffusion models. 
 
 
 # Syllabus
