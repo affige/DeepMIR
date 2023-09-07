@@ -2,6 +2,8 @@
 Teaching material for the course (CommE5070) "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University (2023 Fall).
 https://affige.github.io/teaching.html
 
+Lecture: Yi-Hsuan Yang (https://affige.github.io/; affige@gmail.com)
+
 “Music Information Research” (MIR) is an interdisciplinary research field that concerns with the analysis, retrieval, processing, and generation of musical content or information. Researchers involved in MIR may have a background in signal processing, machine learning, information retrieval, human-computer interaction, musicology, psychoacoustics, psychology, or some combination of these.
 
 In this course, we are mainly interested in the application of machine learning, in particular deep learning, to address music related problems. Specifically, the course is divided to two parts: analysis and generation.
