@@ -33,4 +33,4 @@ The second part is about the **generation** of musical material, including symbo
 
 
 # License
-The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/). By downloading the slides, you agree to this license.
