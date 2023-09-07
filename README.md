@@ -30,3 +30,7 @@ The second part is about the **generation** of musical material, including symbo
 * W14. Generation VIII: Text-to-music generation
 * W15. Miscellaneous Topics
 * W16. Final project presentation
+
+
+# License
+The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
