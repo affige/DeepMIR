@@ -1,5 +1,5 @@
 # DeepMIR
-Teaching material for the course "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University (2023 Fall)
+Teaching material for the course "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University (2023 Fall).
 
 “Music Information Research” (MIR) is an interdisciplinary research field that concerns with the analysis, retrieval, processing, and generation of musical content or information. Researchers involved in MIR may have a background in signal processing, machine learning, information retrieval, human-computer interaction, musicology, psychoacoustics, psychology, or some combination of these.
 
