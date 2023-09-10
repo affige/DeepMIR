@@ -17,7 +17,7 @@ The second part is about the **generation** of musical material, including symbo
 * W1. Introduction to the course ([slides1](https://github.com/affige/DeepMIR/blob/main/lecture01_intro_course.pdf), [slides2](https://github.com/affige/DeepMIR/blob/main/lecture01b_intro_MIR.pdf))
 * W2. Fundamentals & Music representation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture02_representations.pdf))
 * W3. Analysis I (timbre): Automatic music classification and representation learning ([slides](https://github.com/affige/DeepMIR/blob/main/lecture03_timbre.pdf))
-* W4. Generation I: Source separation
+* W4. Generation I: Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture04_separation.pdf))
 * W5. Generation II: GAN & Vocoders
 * W6. Generation III: Synthesis of notes and loops
 * W7. Analysis II (pitch): Music transcription, Melody extraction, and Chord Recognition
@@ -31,6 +31,7 @@ The second part is about the **generation** of musical material, including symbo
 * W15. Miscellaneous Topics
 * W16. Final project presentation
 
+(W1: 2023 September 7)
 
 # License
 The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/). By downloading the slides, you agree to this license.
