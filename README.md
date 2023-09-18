@@ -18,7 +18,7 @@ The second part is about the **generation** of musical material, including symbo
 * W2. Fundamentals & Music representation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture02_representations.pdf))
 * W3. Analysis I (timbre): Automatic music classification and representation learning ([slides](https://github.com/affige/DeepMIR/blob/main/lecture03_timbre.pdf))
 * W4. Generation I: Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture04_separation.pdf))
-* W5. Generation II: GAN & Vocoders
+* W5. Generation II: GAN & Vocoders ([slides](https://github.com/affige/DeepMIR/blob/main/lecture05_vocoders.pdf))
 * W6. Generation III: Synthesis of notes and loops
 * W7. Analysis II (pitch): Music transcription, Melody extraction, and Chord Recognition
 *	W8. Generation IV: Symbolic MIDI generation
