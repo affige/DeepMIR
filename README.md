@@ -21,12 +21,12 @@ The second part is about the **generation** of musical material, including symbo
 * W5. Generation II: GAN & Vocoders
 * W6. Generation III: Synthesis of notes and loops
 * W7. Analysis II (pitch): Music transcription, Melody extraction, and Chord Recognition
-* W8. Analysis III (rhythm): Beat/downbeat tracking
-* W9. Generation IV: Symbolic MIDI generation
-* W10. Generation V: Singing voice generation
-* W11. Generation VI: Differentiable DSP models and automatic mixing
+*	W8. Generation IV: Symbolic MIDI generation
+*	W9. Generation V: Symbolic MIDI generation: Advanced Topics
+*	W10. Generation VI: Singing voice generation
+*	W11. Generation VII: Differentiable DSP models and automatic mixing
 * W12. Project pitch
-* W13. Generation VII: Symbolic MIDI generation: Advanced Topics
+*	W13. Analysis III (rhythm): Beat/downbeat tracking
 * W14. Generation VIII: Text-to-music generation
 * W15. Miscellaneous Topics
 * W16. Final project presentation
