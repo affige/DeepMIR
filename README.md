@@ -26,6 +26,7 @@ The second part is about the **generation** of musical material, including symbo
 *	Lecture 10. Generation VI: Singing voice generation
 * Lecture 11. Generation VIII: Text-to-music generation
 *	Lecture 12. Generation VII: Differentiable DSP models and automatic mixing
+*	Lecture 13. Miscellaneous Topics 
 
 
 # License
