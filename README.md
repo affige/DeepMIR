@@ -14,24 +14,19 @@ The second part is about the **generation** of musical material, including symbo
 
 
 # Syllabus
-* W1. Introduction to the course ([slides1](https://github.com/affige/DeepMIR/blob/main/lecture01_intro_course.pdf), [slides2](https://github.com/affige/DeepMIR/blob/main/lecture01b_intro_MIR.pdf))
-* W2. Fundamentals & Music representation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture02_representations.pdf))
-* W3. Analysis I (timbre): Automatic music classification and representation learning ([slides](https://github.com/affige/DeepMIR/blob/main/lecture03_timbre.pdf))
-* W4. Generation I: Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture04_separation.pdf))
-* W5. Generation II: GAN & Vocoders ([slides](https://github.com/affige/DeepMIR/blob/main/lecture05_vocoders.pdf))
-* W6. Generation III: Synthesis of notes and loops
-* W7. Analysis II (pitch): Music transcription, Melody extraction, and Chord Recognition
-*	W8. Generation IV: Symbolic MIDI generation
-*	W9. Generation V: Symbolic MIDI generation: Advanced Topics
-*	W10. Generation VI: Singing voice generation
-*	W11. Generation VII: Differentiable DSP models and automatic mixing
-* W12. Project pitch
-*	W13. Analysis III (rhythm): Beat/downbeat tracking
-* W14. Generation VIII: Text-to-music generation
-* W15. Miscellaneous Topics
-* W16. Final project presentation
+* Lecture 1. Introduction to the course ([slides1](https://github.com/affige/DeepMIR/blob/main/lecture01_intro_course.pdf), [slides2](https://github.com/affige/DeepMIR/blob/main/lecture01b_intro_MIR.pdf))
+* Lecture 2. Fundamentals & Music representation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture02_representations.pdf))
+* Lecture 3. Analysis I (timbre): Automatic music classification and representation learning ([slides](https://github.com/affige/DeepMIR/blob/main/lecture03_timbre.pdf))
+* Lecture 4. Generation I: Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture04_separation.pdf))
+* Lecture 5. Generation II: GAN & Vocoders ([slides](https://github.com/affige/DeepMIR/blob/main/lecture05_vocoders.pdf))
+* Lecture 6. Generation III: Synthesis of notes and loops
+* Lecture 7. Analysis II (pitch): Music transcription, Melody extraction, and Chord Recognition
+*	Lecture 8. Generation IV: Symbolic MIDI generation
+*	Lecture 9. Generation V: Symbolic MIDI generation: Advanced Topics
+*	Lecture 10. Generation VI: Singing voice generation
+* Lecture 11. Generation VIII: Text-to-music generation
+*	Lecture 12. Generation VII: Differentiable DSP models and automatic mixing
 
-(W1: 2023 September 7)
 
 # License
 The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/). By downloading the slides, you agree to this license.
