@@ -22,7 +22,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 6. Generation III: Synthesis of notes and loops ([slides](https://github.com/affige/DeepMIR/blob/main/lecture06_synthesis.pdf))
 * Lecture 7. Analysis II (pitch): Music transcription, Melody extraction, and Chord Recognition ([slides1](https://github.com/affige/DeepMIR/blob/main/lecture07_pitch.pdf), [slides2](https://github.com/leo-so/AMT_talk))
 *	Lecture 8. Generation IV: Symbolic MIDI generation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture08_midi_generation.pdf))
-*	Lecture 9. Generation V: Symbolic MIDI generation: Advanced topic on music structure 
+*	Lecture 9. Generation V: Symbolic MIDI generation: Advanced topic on music structure ([slides](https://github.com/affige/DeepMIR/blob/main/lecture09_midi_generation_2.pdf))
 *	Lecture 10. Generation VI: Singing voice generation
 * Lecture 11. Generation VIII: Text-to-music generation
 *	Lecture 12. Generation VII: Differentiable DSP models and automatic mixing
