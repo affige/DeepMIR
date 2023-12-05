@@ -26,7 +26,7 @@ The second part is about the **generation** of musical material, including symbo
 *	Lecture 10. Generation VI: Singing voice generation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture10_singing_generation.pdf))
 * Lecture 11. Generation VII: Text-to-music generation ([slides](https://github.com/affige/DeepMIR/blob/main/lecture11_text-to-music.pdf))
 *	Lecture 12. Generation VIII: Differentiable DSP models and automatic mixing ([slides](https://github.com/affige/DeepMIR/blob/main/lecture12_DDSP_mixing.pdf))
-*	Lecture 13. Analysis III (Rhythm) ([slides](https://github.com/affige/DeepMIR/blob/main/lecture13_rhythm.pdf))
+*	Lecture 13. Analysis III (rhythm) ([slides](https://github.com/affige/DeepMIR/blob/main/lecture13_rhythm.pdf))
 
 
 
