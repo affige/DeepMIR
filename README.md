@@ -1,5 +1,5 @@
 # DeepMIR
-Teaching material for the course (CommE5070) "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University (2023 Fall).
+Teaching material for the course (CommE5070) "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University ([2023 Fall](https://affige.github.io/teaching_deepmir23.html), [2024 Fall](https://affige.github.io/teaching_deepmir24.html)).
 https://affige.github.io/teaching.html
 
 Lecturer: Yi-Hsuan Yang (https://affige.github.io/; affige@gmail.com)
