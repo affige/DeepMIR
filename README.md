@@ -15,7 +15,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 1. Introduction to the course ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture01_intro_course.pdf))
 * Lecture 2. Fundamentals of musical audio ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture02_fundamentals_audio.pdf))
 * Lecture 3. Music classification and transcription ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture03_classification_transcription.pdf)) 
-* Lecture 4. Source separation 
+* Lecture 4. Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture04_separation.pdf))  
 * Lecture 5. GAN & Vocoders 
 * Lecture 6. Fundamentals of symbolic music
 * Lecture 7. Symbolic MIDI generation
