@@ -19,7 +19,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 5. GAN & Vocoders ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture05_vocoders.pdf))   
 * Lecture 6. Fundamentals of symbolic music ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture06_fundamentals_symbolic.pdf))   
 * Lecture 7. Symbolic MIDI generation ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture07_midi_generation.pdf))   
-*	Lecture 8. Synthesis and style transfer
+*	Lecture 8. Synthesis and style transfer ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture08_synthesis.pdf))   
 * Lecture 9. Differentiable DSP models and automatic mixing
 *	Lecture 10. Singing voice generation
 *	Lecture 11. Text-to-music generation
