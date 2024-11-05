@@ -20,8 +20,8 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 6. Fundamentals of symbolic music ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture06_fundamentals_symbolic.pdf))   
 * Lecture 7. Symbolic MIDI generation ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture07_midi_generation.pdf))   
 *	Lecture 8. Synthesis and timbre transfer ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture08_synthesis.pdf))   
-* Lecture 9. Differentiable DSP models and automatic mixing ([slides1](https://github.com/affige/DeepMIR/blob/main/2024/lecture09_DDSP.pdf), slides2, [slides3](https://github.com/affige/DeepMIR/blob/main/2024/lecture09c_mixing_yentung.pdf))   
-*	Lecture 10. Singing voice generation
+* Lecture 9. Differentiable DSP models and automatic mixing ([slides1](https://github.com/affige/DeepMIR/blob/main/2024/lecture09_DDSP.pdf), [slides2](https://github.com/affige/DeepMIR/blob/main/2024/lecture09b_guitar_yuhua.pdf), [slides3](https://github.com/affige/DeepMIR/blob/main/2024/lecture09c_mixing_yentung.pdf))   
+*	Lecture 10. Singing voice generation ([slides](https://github.com/affige/DeepMIR/blob/main/2024/lecture10_singing_generation.pdf))    
 *	Lecture 11. Text-to-music generation
 *	Lecture 12. Miscellaneous Topics
 
