@@ -14,7 +14,7 @@ The second part is about the **generation** of musical material, including symbo
 # Syllabus (of year 2025)
 * Lecture 1. Introductions ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture01_intro.pdf)) & fundamentals of musical audio  ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture01b_fundamentals_audio.pdf))
 * Lecture 2. Music classification & music foundation models ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture02_classification.pdf))
-* Lecture 3. Audio codec models & audio language models & audio captioning
+* Lecture 3. Language and music (slides) & special topic on source separation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture03b_separation_short.pdf))
 * Lecture 4. Audio effect modeling
 * Lecture 5. Transformer-based music generation
 * Lecture 6. Diffusion-based music generation
