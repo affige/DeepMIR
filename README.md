@@ -16,7 +16,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 2. Music classification + music foundation models ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture02_classification.pdf))
 * Lecture 3. Language and music ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture03_language-and-music.pdf)) & notes on source separation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture03b_separation_short.pdf))
 * Lecture 4. Audio effect modeling 
-* Lecture 5. Transformer-based music generation + audio codec models (slides)
+* Lecture 5. Transformer-based music generation + audio codec models ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture05_text-to-music_transformer.pdf))
 * Lecture 6. Diffusion-based music generation
 * Lecture 7. Singing voice generation & song generation
 *	Lecture 8. Differentiable DSP models and automatic mixing
