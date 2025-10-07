@@ -19,7 +19,7 @@ The second part is about the **generation** of musical material, including symbo
   * _guest lecturer: Yuan-Chiao Cheng (Positive Grid), Jui-Te Wu (Positive Grid)_
 * Lecture 5. Transformer-based music generation + audio codec models ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture05_text-to-music_transformer.pdf))
 * Lecture 6. Diffusion-based music generation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture06_text-to-music_diffusion.pdf))
-  * _guest lecturer on Music ControlNet and variants by Fang-Duo Tsai (PhD student at Music and AI Lab, National Taiwan University)_ (slides)
+  * _guest lecture on Music ControlNet and variants by Fang-Duo Tsai (PhD student at Music and AI Lab, National Taiwan University)_ (slides)
 * Lecture 7. Singing voice generation & song generation
 * Lecture 8. Differentiable DSP models & automatic mixing
   *	_guest lecturer: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)_
