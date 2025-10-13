@@ -25,7 +25,8 @@ The second part is about the **generation** of musical material, including symbo
   *	_guest lecturer: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)_
 *	Lecture 9. Fundamentals of symbolic music & symbolic MIDI generation
 *	Lecture 10. Advanced symbolic MIDI generation
-*	Lecture 11. Cover generation & MIDI-to-audio generation
+*	Lecture 11. MIDI-to-audio generation, cover generation & music style transfer
+  *	_guest lecturer: Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)_	
 *	Lecture 12. Miscellaneous topics
 *	Lecture 13. Miscellaneous topics
 
