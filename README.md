@@ -21,9 +21,9 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 6. Diffusion-based music generation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture06_text-to-music_diffusion.pdf))
   * _guest lecture on Music ControlNet and variants by Fang-Duo Tsai (PhD student at Music and AI Lab, National Taiwan University)_ 
 * Lecture 7. Singing voice generation & song generation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture07_singing_generation.pdf))
-* Lecture 8. Differentiable DSP models & automatic mixing
+* Lecture 8. Differentiable DSP models & automatic mixing  ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture08_auto-mixing_(by_Yen-Tung_Yeh).pdf))
   *	_guest lecturer: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)_
-*	Lecture 9. Fundamentals of symbolic music & symbolic MIDI generation
+*	Lecture 9. Fundamentals of symbolic music & symbolic MIDI generation  ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture09_midi_generation))
 *	Lecture 10. Advanced symbolic MIDI generation
 * Lecture 11. MIDI-to-audio generation, cover generation & music style transfer
   *	_guest lecturer: Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)_	
