@@ -25,7 +25,7 @@ The second part is about the **generation** of musical material, including symbo
   *	_guest lecturer: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)_
 *	Lecture 9. Fundamentals of symbolic music & symbolic MIDI generation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture09_midi_generation.pdf))
 *	Lecture 10. Advanced symbolic MIDI generation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture10_midi_generation_2.pdf))
-* Lecture 11. MIDI-to-audio generation, cover generation & music style transfer
+* Lecture 11. MIDI-to-audio generation & cover generation ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture11_midi-to-audio.pdf))
   *	_guest lecturer: Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)_	
 *	Lecture 12. Miscellaneous topics
 *	Lecture 13. Miscellaneous topics
