@@ -28,7 +28,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 11. MIDI-to-audio generation  ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture11_midi-to-audio.pdf)) 
   *	_guest lecturer on cover generation by Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)_	([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture11b_covergen_chihpin.pdf))
 *	Lecture 12. Miscellaneous topics ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture12_miscellaneous.pdf))
-*	Lecture 13. Miscellaneous topics
+*	Lecture 13. Transcription ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture13_transcription.pdf)) 
 
 
 # Syllabus (of year 2024)
