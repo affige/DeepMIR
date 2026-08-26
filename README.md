@@ -1,5 +1,5 @@
 # DeepMIR
-Teaching material for the course (CommE5070) "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University ([2023 Fall](https://affige.github.io/teaching_deepmir23.html), [2024 Fall](https://affige.github.io/teaching_deepmir24.html), [2025 Fall](https://affige.github.io/teaching_deepmir25.html)).
+Teaching material for the course (CommE5070) "Deep Learning for Music Analysis and Generation" I taught at National Taiwan University ([2023 Fall](https://affige.github.io/teaching_deepmir23.html), [2024 Fall](https://affige.github.io/teaching_deepmir24.html), [2025 Fall](https://affige.github.io/teaching_deepmir25.html), [2026 Fall](https://affige.github.io/teaching_deepmir26.html)).
 
 Lecturer: Yi-Hsuan Yang (https://affige.github.io/; affige@gmail.com; yhyangtw@ntu.edu.tw)
 
@@ -10,6 +10,11 @@ In this course, we are mainly interested in the application of machine learning,
 The first part is about the **analysis** of musical audio signals, covering topics such as feature extraction and representation learning for musical audio, music audio classification, melody extraction, automatic music transcription, and musical source separation.
 
 The second part is about the **generation** of musical material, including symbolic-domain MIDI or tablatures, and audio-domain music signals such as singing voices and instrumental music. This would involve deep generative models such as generative adversarial networks (GANs), variational autoencoders (VAE), Transformers, and diffusion models. 
+
+# Syllabus (of year 2026)
+* Lecture 1. Introductions
+
+
 
 # Syllabus (of year 2025)
 * Lecture 1. Introductions ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture01_intro.pdf)) & fundamentals of musical audio  ([slides](https://github.com/affige/DeepMIR/blob/main/2025/lecture01b_fundamentals_audio.pdf))
