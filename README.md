@@ -12,8 +12,19 @@ The first part is about the **analysis** of musical audio signals, covering topi
 The second part is about the **generation** of musical material, including symbolic-domain MIDI or tablatures, and audio-domain music signals such as singing voices and instrumental music. This would involve deep generative models such as generative adversarial networks (GANs), variational autoencoders (VAE), Transformers, and diffusion models. 
 
 # Syllabus (of year 2026)
-* Lecture 1. Introductions
-
+* Lecture 1. Introductions & fundamentals of musical audio
+* Lecture 2. Music classification & transcription
+* Lecture 3. Source Separation & vocoders
+* Lecture 4. Music foundation models & audio language models
+* Lecture 5. Symbolic music generation I
+* Lecture 6. Symbolic music generation II
+* Lecture 7. Musical Audio Generation I: codec models
+* Lecture 8. Musical Audio Generation II: latent models
+* Lecture 9. Musical Audio Generation III: lyrics-to-song generation
+* Lecture 10. Musical Audio Generation IV: cover-gen & MIDI-to-audio
+* Lecture 11. Effect modeling & automatic mixing
+* Lecture 12. Miscellaneous topics
+* Lecture 13. Miscellaneous topics
 
 
 # Syllabus (of year 2025)
