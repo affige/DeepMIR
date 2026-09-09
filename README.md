@@ -12,7 +12,7 @@ The first part is about the **analysis** of musical audio signals, covering topi
 The second part is about the **generation** of musical material, including symbolic-domain MIDI or tablatures, and audio-domain music signals such as singing voices and instrumental music. This would involve deep generative models such as generative adversarial networks (GANs), variational autoencoders (VAE), Transformers, and diffusion models. 
 
 # Syllabus (of year 2026)
-* Lecture 1. Introductions & fundamentals of musical audio
+* Lecture 1. Introductions ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture01_intro.pdf)) & fundamentals of musical audio ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture01b_fundamentals_audio.pdf))
 * Lecture 2. Music classification & transcription
 * Lecture 3. Source Separation & vocoders
 * Lecture 4. Music foundation models & audio language models
