@@ -15,13 +15,13 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 1. Introductions ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture01_intro.pdf)) & fundamentals of musical audio ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture01b_fundamentals_audio.pdf))
 * Lecture 2. Music classification ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture02_classification.pdf)) & foundation models ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture02b_foundation_models.pdf))
 * Lecture 3. Large audio language models ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture03_language_music.pdf)) & music transcription ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture03b_transcription.pdf))
-* Lecture 4. Source Separation & vocoders
+* Lecture 4. Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture04_separation.pdf))
 * Lecture 5. Symbolic music generation I
 * Lecture 6. Symbolic music generation II
-* Lecture 7. Musical Audio Generation I: codec models
-* Lecture 8. Musical Audio Generation II: latent models
-* Lecture 9. Musical Audio Generation III: lyrics-to-song generation
-* Lecture 10. Musical Audio Generation IV: cover-gen & MIDI-to-audio
+* Lecture 7. Musical audio generation I: codec models
+* Lecture 8. Musical audio generation II: latent models
+* Lecture 9. Musical audio generation III: lyrics-to-song generation
+* Lecture 10. Musical audio generation IV: cover-gen & MIDI-to-audio
 * Lecture 11. Effect modeling & automatic mixing
 * Lecture 12. Miscellaneous topics
 * Lecture 13. Miscellaneous topics
