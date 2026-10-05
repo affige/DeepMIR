@@ -16,7 +16,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 2. Music classification ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture02_classification.pdf)) & foundation models ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture02b_foundation_models.pdf))
 * Lecture 3. Large audio language models ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture03_language_music.pdf)) & music transcription ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture03b_transcription.pdf))
 * Lecture 4. Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture04_separation.pdf))
-* Lecture 5. Symbolic music generation I
+* Lecture 5. Symbolic music generation I ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture05_midi_generation.pdf))
 * Lecture 6. Symbolic music generation II
 * Lecture 7. Musical audio generation I: codec models
 * Lecture 8. Musical audio generation II: latent models
