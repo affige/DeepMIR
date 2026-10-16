@@ -18,7 +18,7 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 4. Source separation ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture04_separation.pdf))
 * Lecture 5. Symbolic music generation I ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture05_midi_generation.pdf))
 * Lecture 6. Symbolic music generation II ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture06_midi_generation_2.pdf)) & transformer basics ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture06b_transformer.pdf))
-* Lecture 7. Musical audio generation I: codec models
+* Lecture 7. Musical audio generation I: codec models ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture07_text-to-music_transformer.pdf))
 * Lecture 8. Musical audio generation II: latent models
 * Lecture 9. Musical audio generation III: lyrics-to-song generation
 * Lecture 10. Musical audio generation IV: cover-gen & MIDI-to-audio
