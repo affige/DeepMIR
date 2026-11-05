@@ -22,9 +22,9 @@ The second part is about the **generation** of musical material, including symbo
 * Lecture 8. Musical audio generation II: vocoders ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture08_vocoder.pdf)) & latent models ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture08b_text-to-music_diffusion.pdf))
 * Lecture 9. Musical audio generation III: singing voice synthesis ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture09_singing_generation.pdf)) & lyrics-to-song generation ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture09b_song_generation.pdf))
 * Lecture 10. Musical audio generation IV: MIDI-to-audio ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture10_midi-to-audio.pdf))
- *	guest lecturer on cover generation by Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)
+  * _guest lecturer on cover generation by Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)_
 * Lecture 11. Effect modeling & automatic mixing
- *	guest lecturer: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)
+  *	_guest lecturer: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)_
 * Lecture 12. Miscellaneous topics
 * Lecture 13. Miscellaneous topics
 
