@@ -25,7 +25,7 @@ The second part is about the **generation** of musical material, including symbo
   * _guest lecturer on cover generation by Chih-Pin Tan (PhD student at Music and AI Lab, National Taiwan University)_ ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture10_cover_gen_(chih-pin).pdf))
 * Lecture 11. Automatic mixing ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture11b_mixing.pdf)) & differentiable digital signal processing ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture11c_DDSP.pdf))
   *	_guest lecturer on effect modeling & automatic mixing: Yen-Tung Yeh (PhD student at Music and AI Lab, National Taiwan University)_ ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture11_afx_(yen-tung).pdf))
-* Lecture 12. Miscellaneous topics
+* Lecture 12. Emotion & structure ([slides](https://github.com/affige/DeepMIR/blob/main/2026/lecture12_miscellaneous_A.pdf))
 * Lecture 13. Miscellaneous topics
 
 
